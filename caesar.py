@@ -1,7 +1,3 @@
-
-
-from helpers import alphabet_position, rotate_character
-
 def alphabet_position(character):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     lower = character.lower()
